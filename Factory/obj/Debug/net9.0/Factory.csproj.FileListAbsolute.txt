@@ -1,0 +1,14 @@
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\bin\Debug\net9.0\Factory.exe
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\bin\Debug\net9.0\Factory.deps.json
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\bin\Debug\net9.0\Factory.runtimeconfig.json
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\bin\Debug\net9.0\Factory.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\bin\Debug\net9.0\Factory.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.AssemblyInfoInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.AssemblyInfo.cs
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.csproj.CoreCompileInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\refint\Factory.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\Factory.genruntimeconfig.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\Factory\obj\Debug\net9.0\ref\Factory.dll

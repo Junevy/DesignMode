@@ -1,0 +1,14 @@
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\bin\Debug\net9.0\EventAggregatorDemo.exe
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\bin\Debug\net9.0\EventAggregatorDemo.deps.json
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\bin\Debug\net9.0\EventAggregatorDemo.runtimeconfig.json
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\bin\Debug\net9.0\EventAggregatorDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\bin\Debug\net9.0\EventAggregatorDemo.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.AssemblyInfoInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.AssemblyInfo.cs
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.csproj.CoreCompileInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\refint\EventAggregatorDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\EventAggregatorDemo.genruntimeconfig.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\EventAggregatorDemo\obj\Debug\net9.0\ref\EventAggregatorDemo.dll

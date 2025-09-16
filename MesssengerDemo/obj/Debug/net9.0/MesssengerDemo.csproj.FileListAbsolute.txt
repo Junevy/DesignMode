@@ -1,0 +1,17 @@
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.AssemblyInfoInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.AssemblyInfo.cs
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.csproj.CoreCompileInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\bin\Debug\net9.0\MesssengerDemo.exe
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\bin\Debug\net9.0\MesssengerDemo.deps.json
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\bin\Debug\net9.0\MesssengerDemo.runtimeconfig.json
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\bin\Debug\net9.0\MesssengerDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\bin\Debug\net9.0\MesssengerDemo.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\refint\MesssengerDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.genruntimeconfig.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\ref\MesssengerDemo.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\bin\Debug\net9.0\CommunityToolkit.Mvvm.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\MesssengerDemo.csproj.AssemblyReference.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\MesssengerDemo\obj\Debug\net9.0\Messseng.E669777A.Up2Date

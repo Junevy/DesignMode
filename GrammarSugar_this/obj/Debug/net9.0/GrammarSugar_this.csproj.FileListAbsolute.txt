@@ -1,0 +1,14 @@
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\bin\Debug\net9.0\GrammarSugar_this.exe
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\bin\Debug\net9.0\GrammarSugar_this.deps.json
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\bin\Debug\net9.0\GrammarSugar_this.runtimeconfig.json
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\bin\Debug\net9.0\GrammarSugar_this.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\bin\Debug\net9.0\GrammarSugar_this.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.AssemblyInfoInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.AssemblyInfo.cs
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.csproj.CoreCompileInputs.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\refint\GrammarSugar_this.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.pdb
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.genruntimeconfig.cache
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\ref\GrammarSugar_this.dll
