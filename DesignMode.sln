@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesssengerDemo", "Messsenge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarSugar_this", "GrammarSugar_this\GrammarSugar_this.csproj", "{ED70A745-7FF8-4D32-B857-FF9FCDB6476E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionTechnology", "ExtensionTechnology\ExtensionTechnology.csproj", "{5C296C86-2752-4884-9FFA-93C241D292C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{ED70A745-7FF8-4D32-B857-FF9FCDB6476E}.Release|x64.Build.0 = Release|Any CPU
 		{ED70A745-7FF8-4D32-B857-FF9FCDB6476E}.Release|x86.ActiveCfg = Release|Any CPU
 		{ED70A745-7FF8-4D32-B857-FF9FCDB6476E}.Release|x86.Build.0 = Release|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Debug|x64.Build.0 = Debug|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Release|x64.ActiveCfg = Release|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Release|x64.Build.0 = Release|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{5C296C86-2752-4884-9FFA-93C241D292C7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
