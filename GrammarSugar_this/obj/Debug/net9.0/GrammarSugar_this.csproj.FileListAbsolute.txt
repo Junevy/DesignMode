@@ -12,3 +12,4 @@ D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\refint\
 D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.pdb
 D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.genruntimeconfig.cache
 D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\ref\GrammarSugar_this.dll
+D:\Desktop\WorkSpace\Learn\DesignMode\GrammarSugar_this\obj\Debug\net9.0\GrammarSugar_this.sourcelink.json

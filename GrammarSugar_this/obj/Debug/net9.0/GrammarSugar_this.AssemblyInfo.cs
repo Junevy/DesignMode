@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrammarSugar_this")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8055bae5dd75ab8c1362bae8a76e5089a43a1983")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrammarSugar_this")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrammarSugar_this")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
